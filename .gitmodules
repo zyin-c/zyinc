@@ -1,0 +1,6 @@
+[submodule "cli"]
+	path = cli
+	url = git@github.com:zyin-c/zyinc-cli.git
+[submodule "daemon"]
+	path = daemon
+	url = git@github.com:zyin-c/zyinc-daemon.git
