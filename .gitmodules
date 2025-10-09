@@ -4,3 +4,6 @@
 [submodule "daemon"]
 	path = daemon
 	url = git@github.com:zyin-c/zyinc-daemon.git
+[submodule "extras"]
+	path = extras
+	url = git@github.com:zyin-c/extras.git
